@@ -16,6 +16,14 @@ namespace sample_test {
 
         private void Form1_Load(object sender, EventArgs e) {
             // テスト
+            int hoge = 0;
+
+            if ( hoge > 0 ) {
+                // ( ﾟдﾟ )
+            }
+            else {
+                // (´・ω・｀)
+            }
         }
     }
 }
